@@ -1,1 +1,3 @@
 iiiiiii
+squash
+merge
